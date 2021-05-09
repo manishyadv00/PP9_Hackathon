@@ -1,0 +1,25 @@
+{
+  "name": "Hackathon_PP9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishyadv00/PP9_Hackathon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishyadv00/PP9_Hackathon/issues"
+  },
+  "homepage": "https://github.com/manishyadv00/PP9_Hackathon#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.17.1"
+  }
+}
